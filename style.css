@@ -50,3 +50,10 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.button{
+    background-color: orange;
+    color: blue;
+}
+.button:hover{
+    box-shadow: 5px 5px 5px 5px;
+}

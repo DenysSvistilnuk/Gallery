@@ -7,7 +7,7 @@ body{
     margin: 0 auto;
 }
 .header{
-    background-color: blue;
+    background-image: linear-gradient(to left, orange, pink, green);
 }
 .menu{
     display: flex;
@@ -24,7 +24,7 @@ body{
     border-radius: 4px;
     text-decoration: none;
     color: black;
-    background-color: rgb(225, 243, 120);
+    background-image: rgb(225, 243, 120);
     box-shadow: 0px 2px 1px 1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
     cursor: pointer;
@@ -34,7 +34,7 @@ body{
     font-weight: 700;
 }
 .gallery{
-    background-color: beige;
+    background-image: linear-gradient(to right, red, green, yellow);
 }
 .gallery-list{
     padding-top: 40px;
